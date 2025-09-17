@@ -31,3 +31,7 @@
 | Calidad del código     | 1.5     |
 | Funcionalidad      | 1.5      |
 
+- **Nombre completo:** Maikol Smit Gutierrez Bello 
+- **ID de la Universidad:** 0000339397
+- **Usuario de Github:** @Maikol23qq
+- **Link de mi Pokedex:** https://intro-to-asyncronism-maikol23qq.vercel.app/
